@@ -1,0 +1,13 @@
+datasets:
+  cmmlu_write_4:
+    path: "S2S/cmmlu/cmmlu_rewrite_4.jsonl"
+    audio_path: "S2S/cmmlu/cmmlu_rewrite"
+    lang: "zh"
+  sStory_s2t:
+    path: "S2S/StoryCloze/sStory_s2t.jsonl"
+    audio_path: "S2S/StoryCloze/s-story-firstspeech"
+    lang: "en"
+  zh_story:
+    path: "S2S/StoryCloze/zh_story.jsonl"
+    audio_path: "S2S/StoryCloze/zh_story"
+    lang: "zh"
